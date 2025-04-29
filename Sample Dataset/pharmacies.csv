@@ -1,0 +1,101 @@
+pharmacy_id,pharmacy_name,address,city_id
+1,Doctor Medicals,"86/80, Sarna Path, Moradabad-529096",2
+2,Khurana Medicals,"H.No. 014, Kumer Ganj, Amroha 679825",48
+3,Srinivas Medicals,"H.No. 461, Thakur Zila, Karnal 573875",40
+4,Barad Medicals,"75, Doctor Zila, Raipur-512382",13
+5,Gole Medicals,"67/36, Chander Street, Tenali-937966",29
+6,Dass Medicals,"419, Sura Zila, Ambarnath 371478",38
+7,Dasgupta Medicals,"69/15, Uppal Path, Tadipatri 499125",28
+8,Sen Medicals,"H.No. 12, Saran Path, Sasaram 692966",25
+9,Rattan Medicals,"82/827, Boase Road, Satna-905072",1
+10,Kota Medicals,"87/67, Savant Marg, Unnao-190340",46
+11,Rajan Medicals,"42/79, Maharaj Chowk, Chapra 485807",14
+12,Randhawa Medicals,"H.No. 340, Deep Chowk, Chandigarh-133959",14
+13,Chaudhari Medicals,"23/30, Gill, Kavali-544948",18
+14,Karnik Medicals,"04, Sarna Street, Kulti 536729",49
+15,Bera Medicals,"71, Jaggi Zila, Arrah 759017",46
+16,Bir Medicals,"63/63, Desai Chowk, Anantapuram 892975",5
+17,Doshi Medicals,"H.No. 701, Kannan Street, Mumbai 324241",37
+18,Aggarwal Medicals,"H.No. 520, Rattan Marg, Muzaffarpur 110371",7
+19,Hora Medicals,"70/05, Vasa Zila, Mira-Bhayandar-136111",35
+20,Ganesan Medicals,"H.No. 26, Rege Street, Coimbatore 927532",12
+21,Trivedi Medicals,"112, Raja Zila, Etawah-523413",24
+22,Rao Medicals,"43/898, Shenoy Ganj, Sagar 376137",21
+23,Gupta Medicals,"H.No. 52, Vasa Marg, Ambarnath 710910",13
+24,Suri Medicals,"H.No. 068, Ratti Road, Bhusawal 188924",30
+25,Venkataraman Medicals,"H.No. 832, Gade Circle, Dharmavaram 463031",8
+26,Gala Medicals,"99, Dubey Nagar, Jamshedpur-202758",17
+27,Kannan Medicals,"H.No. 24, Solanki Zila, Thanjavur 481491",43
+28,Ganesh Medicals,"50/79, Gour Street, Rohtak-913800",32
+29,Kale Medicals,"H.No. 756, Chakraborty Street, Begusarai 353654",34
+30,Tandon Medicals,"H.No. 802, Suri Ganj, Rewa 744518",41
+31,Tata Medicals,"H.No. 34, Srinivasan, Latur-597383",21
+32,Vasa Medicals,"03, Ghose Circle, Thanjavur-641383",39
+33,Sachdev Medicals,"H.No. 241, D’Alia Nagar, Serampore-191826",25
+34,Rajan Medicals,"23, De Road, Singrauli 574313",40
+35,Bir Medicals,"127, Dugar Chowk, Jamshedpur-374741",26
+36,Doctor Medicals,"49/035, Bath Street, Raurkela Industrial Township 804420",38
+37,Dyal Medicals,"83/17, Suri Zila, Bhilai-032365",8
+38,Ramachandran Medicals,"H.No. 013, Tailor Chowk, Tiruchirappalli 107029",23
+39,Saran Medicals,"06, Chadha Marg, Kakinada-447209",23
+40,Chaudhry Medicals,"68, Balasubramanian Chowk, Parbhani-263838",30
+41,Khatri Medicals,"57/875, Krishnamurthy, Munger 205930",40
+42,Dugar Medicals,"85, Dada, Salem 348039",12
+43,Chakrabarti Medicals,"239, Swaminathan Path, Gudivada-599293",44
+44,Issac Medicals,"701, Dada Nagar, Jaipur-059325",46
+45,Dutta Medicals,"H.No. 029, Soman Street, Hajipur-156915",20
+46,Dhingra Medicals,"267, Chahal Path, Rajahmundry 644220",40
+47,Shah Medicals,"959, Reddy Ganj, Mehsana-513552",38
+48,Saran Medicals,"04, Dash Ganj, Etawah 100676",6
+49,Ravel Medicals,"65, Guha Circle, Nangloi Jat-271040",44
+50,Korpal Medicals,"H.No. 152, Buch Marg, Motihari 599706",9
+51,Mani Medicals,"015, Chandran Ganj, Begusarai-443106",21
+52,Srinivas Medicals,"H.No. 506, Din Zila, Kollam-032417",8
+53,Dara Medicals,"77, Bath Road, Udaipur 652704",16
+54,Gaba Medicals,"H.No. 34, Balasubramanian, Jalandhar-586938",20
+55,Guha Medicals,"68/79, Khanna Ganj, Vijayawada 089899",8
+56,Dey Medicals,"22, Swamy Ganj, Cuttack-616329",12
+57,Taneja Medicals,"11/686, Gaba Circle, Saharsa 099861",24
+58,Srivastava Medicals,"999, Bera Zila, Baranagar-646799",45
+59,Hegde Medicals,"462, Ramanathan, Agra-530745",10
+60,Gopal Medicals,"H.No. 44, Varughese Chowk, Ambattur 475469",33
+61,Bhandari Medicals,"36, Sibal Chowk, Pimpri-Chinchwad 148628",25
+62,Manda Medicals,"303, Kari Nagar, Karimnagar 457861",27
+63,Chaudhry Medicals,"H.No. 79, Chakrabarti Chowk, Dharmavaram 524140",39
+64,Rajagopalan Medicals,"933, Sandhu Ganj, Agartala-800722",9
+65,Mahajan Medicals,"H.No. 94, Kakar Road, Karnal 437489",37
+66,Chana Medicals,"H.No. 858, Ramanathan, Bihar Sharif-715454",25
+67,Sanghvi Medicals,"283, Swaminathan Nagar, Imphal 074466",28
+68,Sodhi Medicals,"93/53, Ray Circle, Secunderabad-282417",12
+69,Maharaj Medicals,"82/513, Choudhury Path, Bidar-549471",32
+70,Arya Medicals,"99/917, Krishna Ganj, Eluru-602235",41
+71,Seth Medicals,"521, Ganesan Chowk, Satara-074329",35
+72,Kashyap Medicals,"H.No. 296, Jaggi Marg, Morena-008350",45
+73,Sathe Medicals,"H.No. 033, Dugal Path, Kota 894210",42
+74,Cheema Medicals,"89, Ganguly Circle, Guntur 753260",12
+75,Kanda Medicals,"23/098, Bhatia Street, Agra-489090",36
+76,Sur Medicals,"H.No. 167, Bhatia Marg, Bhalswa Jahangir Pur 304618",11
+77,Dhingra Medicals,"18, Bhargava, Raipur 739348",32
+78,Thakur Medicals,"64/208, Chawla Chowk, Bathinda-001197",19
+79,Saraf Medicals,"11/43, Divan Chowk, Madhyamgram-120455",9
+80,Banerjee Medicals,"H.No. 002, Gala Street, Bahraich-155216",12
+81,Tank Medicals,"H.No. 67, Sachar Marg, Gorakhpur-021697",21
+82,Vala Medicals,"65/90, Khurana Street, Gorakhpur-701450",29
+83,Sunder Medicals,"89/16, Khosla Ganj, Kharagpur-890028",40
+84,Sunder Medicals,"175, Gandhi Ganj, Dhanbad-866317",4
+85,Jayaraman Medicals,"H.No. 775, Kothari Zila, Kota-608801",23
+86,Samra Medicals,"75/503, Gandhi Chowk, Bharatpur 113055",1
+87,Krish Medicals,"10/272, Bera Marg, Phagwara 316373",32
+88,Boase Medicals,"09, Som Zila, Berhampore 708086",9
+89,Ravel Medicals,"92/216, Raman, Dibrugarh-693465",13
+90,Doshi Medicals,"269, Doctor Circle, Begusarai 339452",25
+91,Dara Medicals,"15/879, Sama, Deoghar-608106",36
+92,Date Medicals,"03/424, Bora Road, Sagar-805719",33
+93,Sahni Medicals,"840, Hari Marg, Satara-043973",42
+94,Bose Medicals,"34/721, Chadha Street, Burhanpur 648422",32
+95,Sehgal Medicals,"H.No. 72, Bose Nagar, Kavali 947985",27
+96,Kakar Medicals,"32/81, Buch Circle, Tinsukia 153355",44
+97,Subramanian Medicals,"987, Tata Circle, Raipur 739930",32
+98,Gulati Medicals,"H.No. 648, Arora Road, Kottayam 704358",27
+99,Bansal Medicals,"880, Cheema Zila, Khandwa 386120",46
+100,Kapur Medicals,"H.No. 110, Sundaram Street, Proddatur-934667",29
